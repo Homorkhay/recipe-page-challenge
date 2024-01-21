@@ -1,0 +1,14 @@
+{
+  "name": "recipe",
+  "version": "1.0.0",
+  "description": "landing page for recipe",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss style.css -w"
+  },
+  "author": "Happiness",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
