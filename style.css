@@ -121,7 +121,7 @@ ol {
 .box-four {
   margin-left: 27px; }
 
-@media (max-width: 415px) {
+@media (max-width: 480px) {
   main {
     margin: 0;
     padding: 0;
